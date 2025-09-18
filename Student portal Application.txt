@@ -1,0 +1,6 @@
+*****Student portal Application*****
+--Student portal--
+--Name--
+--Age--
+--Gender--
+--Religion--
