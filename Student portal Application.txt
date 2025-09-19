@@ -1,6 +1,7 @@
 *****Student portal Application*****
 --Student portal--
---Name--
+--Name[only capital letters]--
 --Age--
 --Gender--
 --Religion--
+
